@@ -66,17 +66,19 @@ Because Hedwig's 1939 Latvian record genuinely gives her maiden surname as Zāl�
 
 ## Current direct archival targets
 
-Raduraksti catalogs surviving 1911 Riga German Lutheran registers that should be checked around **13 October 1911**, including:
+Independent inspection of the Latvian National Archives / Raduraksti collection pages confirms five high-priority 1911 German-language Riga registers:
 
-- Riga Martin German congregation, 1911 births/baptisms and marriages — Fonds 3036, inventory 5, file 46; catalog object `1:2469:27698`.
-- Riga St. Gertrude German congregation, 1911 births/baptisms and marriages — Fonds 1429, inventory 4, file 32; catalog object `1:2470:28978`.
-- Other Riga German/Latvian Lutheran congregational registers should also be checked if those do not contain Ingrid.
+- **Riga St. Peter (St. Petri)** — `1911 Dz L M (vācu)` — object `1:4:11:2055:2474:28923`.
+- **Riga Dom Cathedral** — `1911 Dz L M (vācu)` — object `1:4:11:2055:2466:28971`.
+- **Riga St. Gertrude I/II** — `1911 Dz L (vācu) ; M (latv.,vācu)` — object `1:4:11:2055:2470:28978`.
+- **Riga Martin** — `1911 Dz L (vācu)` — object `1:4:11:2055:2469:27698`.
+- **Riga St. Jacobi** — `1911 Dz L M (vācu)` — object `1:4:11:2055:2472:29000`.
 
-These are catalog leads, not evidence that Ingrid belonged to either congregation.
+These object IDs and catalog labels are **DOCUMENTED archival holdings**. The underlying manuscript images have **not yet been inspected** in this research environment, so it is incorrect to say that Ingrid or Deinhardt was absent from any of these registers. Additional fonds/inventory/file numbers from external AI reports should not be adopted unless independently verified against archival metadata.
 
 ## Research priorities — evidence-first order
 
-1. Locate Ingrid's **13 Oct 1911 Riga birth/baptism record** and identify both parents directly.
+1. Obtain image access and inspect the five verified 1911 German registers above for Ingrid's **13 Oct 1911** birth and subsequent baptism weeks, including annual surname indexes where present.
 2. Locate the **4 June 1932 Riga marriage record** for George Freymann + Ingrid Deinhardt and extract parents, occupations, residences, witnesses, and jurisdiction.
 3. Locate **EWZ / Baltic German resettlement documentation** for Ingrid and the Deinhardt household.
 4. Identify the **`Aug. Deinhardt`** documented in Riga in December 1932: full name, occupation, address, spouse, and family.
