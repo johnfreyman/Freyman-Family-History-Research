@@ -29,6 +29,7 @@ A two-volume memoir by George and Ingrid Freymann is preserved in the private ma
 8. Do not use shared surnames, professions, geography, or social networks as proof of kinship.
 9. Search snippets and AI summaries are leads, not final evidence when the underlying document is accessible.
 10. When evidence conflicts with existing repo material, report the conflict explicitly rather than choosing whichever seems likelier.
+11. **Preserve external evidence, not just links.** When research uncovers historically significant photographs, document scans, newspaper clippings, directory pages, maps, advertisements, ship images, archival records, or similar source material, do not rely solely on an external URL when a local archival copy can legally and reasonably be preserved. Save the original or highest-quality permissible copy in the repository/archive, preserving it without alteration. Record the source institution, original URL, retrieval date, creator/publication/date/page or record identifier when known, rights/license status, and a description of its evidentiary significance. Keep the original external URL even when a local copy is preserved. If copyright, access restrictions, privacy, or repository policy prevents preservation, retain a detailed citation and URL instead. Never bypass access controls or copy material that may not lawfully be archived.
 
 ## Research-quality hierarchy
 1. Original vital/civil/church/immigration/court/company/property/military/government/ship-registry records.
