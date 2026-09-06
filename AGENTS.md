@@ -1,5 +1,12 @@
 # AI Research Protocol
 
+> **⚠️ RETIRED 2026-09-05. Do not start research from this file.**
+>
+> This repository no longer accepts contributions and nothing in it is current. The protocol
+> below is frozen at 30 August 2026 and has been superseded by the `AGENTS.md` in the private
+> master archive, which is the only version in force. If an assignment sent you here, that
+> assignment is out of date — contact the repository owner. See `README.md`.
+
 This public repository is a curated research mirror of the private **Freyman / Freymann Family History** master archive. Multiple AI researchers may use it. Conversation memory and AI agreement are never authoritative; evidence is.
 
 ## Mission
